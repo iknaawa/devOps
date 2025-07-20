@@ -12,20 +12,20 @@
 // =========================================================
 
 // * The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software. Please contact us to request a removal.
-@import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap');
+// @import url('https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800&display=swap');
 
 // Bootstrap mixins and functions
-// @import "~bootstrap/scss/functions";
-// @import "~bootstrap/scss/mixins";
-@import "../../node_modules/bootstrap/scss/mixins";
-@import "../../node_modules/bootstrap/scss/functions";
+@import "~bootstrap/scss/functions";
+@import "~bootstrap/scss/mixins";
+// @import "../../node_modules/bootstrap/scss/mixins";
+// @import "../../node_modules/bootstrap/scss/functions";
 
 // Change variables here
 @import "volt/variables";
 
 // Bootstrap
-// @import "~bootstrap/scss/bootstrap";
-@import "../../node_modules/bootstrap/scss/bootstrap";
+@import "~bootstrap/scss/bootstrap";
+// @import "../../node_modules/bootstrap/scss/bootstrap";
 
 // Vendor
 @import "volt/vendor";
